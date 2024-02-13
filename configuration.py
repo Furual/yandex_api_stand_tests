@@ -1,4 +1,4 @@
-URL_SERVICE = "https://843f21e0-6298-48da-98cb-7fef17f1e64d.serverhub.praktikum-services.ru"
+URL_SERVICE = "https://197e0ff4-e0a1-48d8-bb26-905de42008b4.serverhub.praktikum-services.ru"
 DOC_PATH = "/docs/"
 LOG_MAIN_PATH = "/api/logs/main/"
 USERS_TABLE_PATH = "/api/db/resources/user_model.csv"
